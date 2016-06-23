@@ -1,0 +1,43 @@
+body {
+	background-color: #F7BCA8;
+	color: Cornsilk;
+	font-size: 175%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+h1, ol, ul {
+	color: black;
+}
+	
+
+h1, h3, h4, p {
+
+	text-align: center;
+}
+img {
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	height: auto;
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
+}
+
+
+ol, ul {
+	margin-left: 300px;
+}
+
+.next {
+	color: black;
+}
+
+.must {
+	color: black;
+}
+
+#so {
+	color:#197FCC;
+}
